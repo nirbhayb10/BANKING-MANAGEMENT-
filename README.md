@@ -1,2 +1,10 @@
-# BANKING-MANAGEMENT-
-Banking system in C++ with features like account creation, deposit, withdrawal, fund transfer, and account display. Uses `std::vector` for dynamic account management and a menu-driven interface for user-friendly operations.
+Banking Management System  
+A simple command-line banking system implemented in C++ using object-oriented programming concepts. This program allows users to perform the following operations:  
+
+- Create Account: Add new accounts with account numbers and initial balances.  
+- Deposit Funds: Add money to an existing account.  
+- Withdraw Funds: Withdraw money from an existing account, ensuring sufficient balance.  
+- Transfer Funds: Transfer money between two accounts.  
+- View Account Details: Display all accounts with their balances.  
+
+The system supports dynamic account management using vector for flexibility.  
